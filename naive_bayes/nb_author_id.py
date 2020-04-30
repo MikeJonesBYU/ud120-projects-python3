@@ -7,7 +7,7 @@
     
     authors and labels:
     Sara has label 0
-    Chris has label 1
+kkkk    Chris has label 1
 """
     
 import sys
